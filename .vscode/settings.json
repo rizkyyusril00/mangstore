@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Noctis Viola",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": 1,
+    "livePreview.defaultPreviewPath": "/publik/home.html",
+}
